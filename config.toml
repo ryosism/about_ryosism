@@ -1,0 +1,4 @@
+baseurl = "https://ryosism.github.io/my_portfolio/"
+title = "My New Hugo Site"
+languageCode = "en-us"
+theme = "startbootstrap-clean-blog"
