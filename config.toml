@@ -1,4 +1,4 @@
 baseurl = "https://ryosism.github.io/about_ryosism/"
-title = "My New Hugo Site"
+title = "ryosismのキャビネット"
 languageCode = "en-us"
-theme = "startbootstrap-clean-blog"
+theme = "hugo-bootstrap-premium"
