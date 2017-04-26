@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>https://ryosism.github.io/about_ryosism/tags/go/index.xml</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://ryosism.github.io/about_ryosism/tags/go/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>1st</title>
+      <link>https://ryosism.github.io/about_ryosism/post/1st/</link>
+      <pubDate>Sun, 23 Apr 2017 11:38:16 +0900</pubDate>
+      
+      <guid>https://ryosism.github.io/about_ryosism/post/1st/</guid>
+      <description>
+
+&lt;h1 id=&#34;見出し&#34;&gt;見出し&lt;/h1&gt;
+
+&lt;p&gt;初めての投稿です！
+マークダウンテストします！&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;これ太い&lt;/strong&gt;&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;left&#34;&gt;項目&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;内容&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;a&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;b&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;ああ&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;おい&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&#34;その２&#34;&gt;その２&lt;/h2&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
