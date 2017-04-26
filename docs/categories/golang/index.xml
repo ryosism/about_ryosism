@@ -19,7 +19,7 @@
 &lt;h1 id=&#34;見出し&#34;&gt;見出し&lt;/h1&gt;
 
 &lt;p&gt;初めての投稿です！
-マークダウンテストします！&lt;br /&gt;&lt;/p&gt;
+マークダウンテストします！&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;これ太い&lt;/strong&gt;&lt;/p&gt;
 
@@ -38,13 +38,24 @@
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;ああ&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;ああ？？&lt;/td&gt;
 &lt;td align=&#34;left&#34;&gt;おい&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
 
 &lt;h2 id=&#34;その２&#34;&gt;その２&lt;/h2&gt;
+
+&lt;p&gt;なにぃ？ビルドに失敗する？&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;The page build failed for the &lt;code&gt;master&lt;/code&gt; branch with the following error:&lt;/p&gt;
+
+&lt;p&gt;The submodule &lt;code&gt;themes&lt;/code&gt; was not properly initialized with a &lt;code&gt;.gitmodules&lt;/code&gt; file. For more information, see &lt;a href=&#34;https://help.github.com/articles/page-build-failed-missing-submodule/&#34;&gt;https://help.github.com/articles/page-build-failed-missing-submodule/&lt;/a&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;マジかよ･･･
+&lt;code&gt;Git submodule update&lt;/code&gt;とか？&lt;/p&gt;
 </description>
     </item>
     

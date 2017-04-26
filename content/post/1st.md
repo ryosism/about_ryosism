@@ -21,13 +21,21 @@ image = "/img/about-bg.jpg"
 
 # 見出し
 初めての投稿です！
-マークダウンテストします！<br />
+マークダウンテストします！
 
 **これ太い**
 
 |項目かな|内容|
 |:--:|:--|
 |a|b|
-|ああ|おい|
+|ああ？？|おい|
 
 ## その２
+なにぃ？ビルドに失敗する？
+
+> The page build failed for the `master` branch with the following error:
+
+> The submodule `themes` was not properly initialized with a `.gitmodules` file. For more information, see https://help.github.com/articles/page-build-failed-missing-submodule/.
+
+マジかよ･･･
+`Git submodule update`とか？
